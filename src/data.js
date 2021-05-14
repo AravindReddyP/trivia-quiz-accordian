@@ -7,7 +7,7 @@ const questions = [
   {
     id: 2,
     title: 'What is the Population of China?',
-    info: '1.39 Billion',
+    info: '1.4 Billion',
   },
   {
     id: 3,
@@ -16,7 +16,7 @@ const questions = [
   },
   {
     id: 4,
-    title: 'Oldest religion in the World?',
+    title: 'Oldest Surviving religion in the World?',
     info: 'Hinduism',
   },
   {
