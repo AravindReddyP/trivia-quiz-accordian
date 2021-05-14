@@ -16,7 +16,7 @@ const questions = [
   },
   {
     id: 4,
-    title: 'Oldest Surviving religion in the World?',
+    title: 'What is the oldest Surviving religion in the World?',
     info: 'Hinduism',
   },
   {
